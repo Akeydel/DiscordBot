@@ -52,4 +52,4 @@ async def on_reaction_add(reaction, user):
 
     # step 6: profit?
 
-client.run('Njc1NjY0MjMxOTIzNzEyMDQw.Xj6kMQ.L2MWulqm1QIseibGc7RIcziQdjE')
+client.run('[BOT TOKEN HERE, SINCE REMOVED]')
